@@ -10,6 +10,12 @@ header {
    height: 200px;
 }
 
+.caixa {
+   position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
 .texto {
    background: #000000;
    texto-align:center;
