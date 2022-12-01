@@ -10,24 +10,24 @@ header {
 }
 
 .texto {
-   position: relative;
    background: #000000;
    font-color: #FFFFFF;
+   texto-align:center;
 }
 
 
-nav {
+.nav {
    position: absolute;
    top: 110px;
    right: 0;
 }
 
-nav li {
+.nav li {
    display: inline;
    margin: 0 0 0 15px;
 }
 
-nav a {
+.nav a {
    text-transform: uppercase;
    color: #000000;
    font-weight: bold;
