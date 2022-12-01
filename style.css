@@ -22,6 +22,11 @@ header {
    p: #FFFFFF;
 }
 
+nav {
+	position: absolute;
+	top: 20px;
+	right: 0;
+}
 
 nav li {
 	display: inline;
