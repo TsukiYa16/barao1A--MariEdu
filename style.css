@@ -11,8 +11,9 @@ header {
 
 .texto {
    background: #000000;
-   font-color: #FFFFFF;
    texto-align:center;
+   color: #FFFFFF;
+   p: #FFFFFF;
 }
 
 
